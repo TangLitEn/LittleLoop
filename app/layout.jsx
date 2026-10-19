@@ -9,6 +9,7 @@ export const metadata = {
   icons: { icon: assetPath('yarn.svg') },
 };
 
+
 export const viewport = { themeColor: '#faf8f3' };
 
 export default function RootLayout({ children }) {
